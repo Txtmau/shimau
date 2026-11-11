@@ -44,6 +44,6 @@ Estos avisos aparecen porque la aplicación aún no cuenta con la certificación
 
 ## Agradecimientos
 
-A **Santiago Segura Lizano**, por su apoyo conceptual y creativo en el desarrollo de shimau.
+A **Jonathan Rivera** y **Santiago Segura Lizano**, por su apoyo conceptual y creativo en el desarrollo de shimau.
 
 *shimau es un proyecto independiente de ttxtdesign. No es una herramienta oficial ni está afiliada a la Universidad de Costa Rica.*
